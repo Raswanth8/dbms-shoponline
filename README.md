@@ -1,8 +1,8 @@
 # dbms-shoponline
 
-An E-commerce platform incorporating concepts of DBMS along with PHP, HTML, CSS.
+An Simple E-commerce applictaion built using HTML,CSS,javascript,PHP as part of DBMS course (CSE Third Semester)
 
-Team:
+# Team:
 
 -   Sudhay Senthilkumar
 -   Sandeep Rajakrishnan
